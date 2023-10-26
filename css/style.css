@@ -35,3 +35,20 @@ table {
     width: 25%;
 }
 
+#monitor {
+    height: 200px;
+    width: 300px;
+    background-image: url('../img/monitor.jpg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+
+#graph {
+    height: 200px;
+    width: 300px;
+    background-image: url('../img/graph.jpg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
