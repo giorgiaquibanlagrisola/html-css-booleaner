@@ -7,3 +7,31 @@ header {
 #logo {
     height: 60px;
 }
+
+.grey-text {
+    color: grey;
+}
+
+.link {
+    color: #4EA0FF;
+    text-decoration: none;
+}
+
+.thead {
+    text-align: left;
+    background-color: #4EA0FF;
+    color: white;
+}
+
+.skyblue-lines {
+    background-color: #B1E5F2;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+.width-cells {
+    width: 25%;
+}
+
