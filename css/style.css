@@ -56,3 +56,11 @@ table {
 #graph {
     background-image: url('../img/graph.jpg');
 }
+
+ul {
+    padding-left: 15px;
+}
+
+p {
+    margin-bottom: 20px;
+}
