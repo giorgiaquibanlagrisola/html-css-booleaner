@@ -2,6 +2,7 @@
 header {
     background-color: #4EA0FF;
     background-image: url('../img/pattern.png');
+    padding-top: 40px;
 }
 
 #logo {
@@ -35,20 +36,23 @@ table {
     width: 25%;
 }
 
-#monitor {
+.related-article {
     height: 200px;
     width: 300px;
-    background-image: url('../img/monitor.jpg');
     background-size: cover;
     background-position: center;
     color: white;
+    padding-top: 2px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+
+}
+
+#monitor {
+    background-image: url('../img/monitor.jpg');
 }
 
 #graph {
-    height: 200px;
-    width: 300px;
     background-image: url('../img/graph.jpg');
-    background-size: cover;
-    background-position: center;
-    color: white;
 }
